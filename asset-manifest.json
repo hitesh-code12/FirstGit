@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/FirstGit/static/css/main.a617e044.chunk.css",
-    "main.js": "/FirstGit/static/js/main.e1ad6a1b.chunk.js",
-    "main.js.map": "/FirstGit/static/js/main.e1ad6a1b.chunk.js.map",
+    "main.js": "/FirstGit/static/js/main.301a9baa.chunk.js",
+    "main.js.map": "/FirstGit/static/js/main.301a9baa.chunk.js.map",
     "runtime-main.js": "/FirstGit/static/js/runtime-main.8ff5963b.js",
     "runtime-main.js.map": "/FirstGit/static/js/runtime-main.8ff5963b.js.map",
     "static/js/2.82c518c6.chunk.js": "/FirstGit/static/js/2.82c518c6.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8ff5963b.js",
     "static/js/2.82c518c6.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.e1ad6a1b.chunk.js"
+    "static/js/main.301a9baa.chunk.js"
   ]
 }
